@@ -6,5 +6,7 @@
     "Welcome.cardDesignSystemTitle": "Design System",
     "Welcome.cardDesignSystemContent": "Explore the UI components to develop Custom Applications and learn more about the Design System.",
     "Welcome.cardChannelsTitle": "Fetching channels",
-    "Welcome.cardChannelsContent":"Demo example to fetch some data using GraphQL and displaying it in a paginated table."
+    "Welcome.cardChannelsContent":"Demo example to fetch some data using GraphQL and displaying it in a paginated table.",
+    "UIKit.Pagination.PageNavigator.nextPageLabel": "Next page",
+    "UIKit.Pagination.PageNavigator.previousPageLabel": "Previous page"
   }
